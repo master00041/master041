@@ -19,7 +19,7 @@ local fuses = '!printf user#id' .. msg.from.id
  else
 
 
-                 local sends0 = send_msg('chat#107855523', fuse, ok_cb, false)
+                 local sends0 = send_msg('chat#104583328', fuse, ok_cb, false)
 
  return 'پیام شما با موفقیت به تیم قدرتمند صلیب فرستاده شد.'
 
