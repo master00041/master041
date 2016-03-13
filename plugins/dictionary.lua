@@ -65,9 +65,9 @@ return {
     "[/!]trans source,target text",
   },
   patterns = {
-    "^[/!]trans ([%w]+),([%a]+) (.+)",
-    "^[/!]trans ([%w]+) (.+)",
-    "^[/!]trans (.+)",
+    "^trans ([%w]+),([%a]+) (.+)",
+    "^trans ([%w]+) (.+)",
+    "^trans (.+)",
   }, 
   run = run 
 }
